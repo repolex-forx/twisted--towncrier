@@ -1,0 +1,11 @@
+{
+  "org": "twisted",
+  "repo": "towncrier",
+  "versions": [
+    {
+      "commit": "f92fbf5180f70e797af62932a4346573023d4001",
+      "tag": "",
+      "parsed_at": "2026-10-12T03:02:23.698636+00:00"
+    }
+  ]
+}
