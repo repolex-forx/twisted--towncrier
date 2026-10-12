@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/twisted/towncrier/commit/f92fbf5180f70e797af62932a4346573023d4001",
       "git:hexsha": "f92fbf5180f70e797af62932a4346573023d4001",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T03:02:23.698061+00:00"
     },
     {
       "@id": "https://repolex.ai/r/twisted/towncrier/commit/6cf3daacfd2f20cae2a5dc958d2c4ba33a6de79f",
